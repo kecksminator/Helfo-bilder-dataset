@@ -1,0 +1,30 @@
+{
+  "retrieved_date": "2026-11-04",
+  "scope": "Utvalgte testregler; ikke komplett regelmotor eller refusjonsbeslutning.",
+  "caveat": "Løpende nettside. Kontroller gjeldende og datorelevante regler før bruk; fasit er ikke faglig uavhengig godkjent.",
+  "sources": [
+    {
+      "source_id": "HELFO-2026-T101",
+      "official_url": "https://www.helsedirektoratet.no/rundskriv/kapittel-5-stonad-ved-helsetjenester/takster-for-tannbehandling-",
+      "source_effective_date": "2026-01-01",
+      "check": "101: minimum 20 minutter; repetisjon én gang ved over 40 minutter; kan ikke kombineres med 207."
+    },
+    {
+      "source_id": "HELFO-2026-T501",
+      "official_url": "https://www.helsedirektoratet.no/rundskriv/kapittel-5-stonad-ved-helsetjenester/takster-for-tannbehandling-",
+      "source_effective_date": "2026-01-01",
+      "check": "501: minimum 30 minutter; repetisjon for hvert 30. minutt fra 60 minutter; maksimalt 14 per kalenderår."
+    },
+    {
+      "source_id": "HELFO-2026-T801-802-804",
+      "official_url": "https://www.helsedirektoratet.no/rundskriv/kapittel-5-stonad-ved-helsetjenester/takster-for-tannbehandling-",
+      "source_effective_date": "2026-01-01",
+      "check": "801: laboratorieprøve. 802: tannrøntgen. 804: panorama, med vilkår."
+    },
+    {
+      "source_id": "ICD10-K02.1",
+      "official_url": "https://classbrowser.nhs.uk/ICD-10-5TH-Edition/vol1/block-k00-k14.htm",
+      "check": "K02.1 er karies i dentin; norsk kodeverk for relevant år må kontrolleres særskilt."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "engine": "tesseract 5.3.4",
+  "language": "eng",
+  "psm": "6",
+  "language_model_sha256": {
+    "eng": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+  },
+  "cases_sha256": "3108e15a4c4c084628b57921afeb60e6e2a2898a2b610d2762138dca956e44d4",
+  "manifest_sha256": "5bbb57775ae3502ebfd66076d720f186bfd81d1272271a047a93fcc67557de64",
+  "omp_thread_limit": "1",
+  "description": "Lokal syntetisk demonstrasjon, ikke Clinaxia."
+}
